@@ -1,0 +1,4 @@
+
+<?php
+// Define routes here
+?>
